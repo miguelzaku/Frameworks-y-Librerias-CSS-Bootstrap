@@ -1,0 +1,39 @@
+.logo-music{
+  height: 100px;
+}
+.social{
+  height: 30px;
+}
+@media (min-width: 768px){
+      .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: auto;
+        float: none;
+        width: 100%;
+      }
+      .navbar-nav>li{
+        display: table-cell;
+        float:none;
+        text-align: center;
+      }
+}
+.contenido-texto{
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 20px;
+}
+
+.icono1{
+  height: 30px;
+}
+
+.imagen-radiohead-2{
+  height: 200px;
+  padding-left: 5%;
+  padding-top: 20px;
+}
+.comentario-1{
+  padding-top: 15px;
+}
